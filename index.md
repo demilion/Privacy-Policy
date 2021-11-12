@@ -91,4 +91,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
- [contact support](me.demilion@gmail.com) and we’ll help you sort it out.
+ <me.demilion@gmail.com> and we’ll help you sort it out.
